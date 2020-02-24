@@ -67,15 +67,15 @@ Am Hubland 32<br/>
 
 ### In preparation
 
-D. Vedder, L. Leidinger and J. Sarmento Cabral. Trait-environment interactions during four stages of invasion. In prep.
+D. Vedder, L. Leidinger and J. Sarmento Cabral. Effects of Species Traits and Abiotic Factors on the Four Stages of Plant Invasion. In prep.
 
-L. Leidinger and J. Sarmento Cabral. Genetic architecture drives species radiations in two phases on oceanic islands. In prep.
+L. Leidinger and J. Sarmento Cabral. How genomic and ecological traits affect radiations of plant species on oceanic islands: insights from a genomically-explicit model. In prep.
 
 ### Submitted
 
-L. Leidinger and J. Sarmento Cabral. Temporal environmental variation imposes differential selection on both genomic and ecological traits. *Nature Ecology & Evolution*, submitted.
+L. Leidinger and J. Sarmento Cabral. Temporal environmental variation imposes differential selection on both genomic and ecological traits. *Oikos*, submitted.
 
-### Under revision
+### Accepted
 
 T. Matthews, L. Leidinger and J. Sarmento Cabral. The effect of species extinctions on island biogeographic patterns. *Ecological research*
 
@@ -138,7 +138,7 @@ Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"><
 
 ### Masters students
 
-**Annika ?**, *Center for Computational and Theoretical Biology, University of Würzburg*, Germany.
+**Annika Goßmann**, *Center for Computational and Theoretical Biology, University of Würzburg*, Germany.
 
 ### Bachelors theses
 
@@ -195,7 +195,7 @@ French: Basic knowledge
 
 ## Memberships
 
-`2018-2019`
+`2018-present`
 International Biogeography Society
 
 `2017-present`
@@ -215,4 +215,4 @@ Residence: Germany
 Family: Married, one daughter
 
 
-<br/>Last updated: November 2019<br/><br/>
+<br/>Last updated: February 2020<br/><br/>
