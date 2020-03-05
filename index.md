@@ -65,17 +65,6 @@ Am Hubland 32<br/>
 
 ## Publications
 
-### In preparation
-
-D. Vedder, L. Leidinger and J. Sarmento Cabral. Effects of Species Traits and Abiotic Factors on the Four Stages of Plant Invasion. *In prep*.
-
-L. Leidinger and J. Sarmento Cabral. How genomic and ecological traits affect radiations of plant species on oceanic islands: insights from a genomically-explicit model. *In prep*.
-
-### Submitted
-
-L. Leidinger and J. Sarmento Cabral. Temporal environmental variation imposes differential selection on both genomic and ecological traits. *Submitted*.
-
-
 ### Published
 
 `2020`
@@ -83,6 +72,16 @@ T. J. Matthews, L. K. T. Leidinger and J. Sarmento Cabral. The effect of species
 
 `2017`
 L. Leidinger and J. Sarmento Cabral. Biodiversity dynamics on islands: explicitly accounting for causality in mechanistic models. *Diversity*. DOI: [10.3390/d9030030](https://doi.org/10.3390/d9030030), 2017.
+
+### Submitted
+
+L. Leidinger and J. Sarmento Cabral. Temporal environmental variation imposes differential selection on both genomic and ecological traits. *Submitted*.
+
+### In preparation
+
+D. Vedder, L. Leidinger and J. Sarmento Cabral. Effects of Species Traits and Abiotic Factors on the Four Stages of Plant Invasion. *In prep*.
+
+L. Leidinger and J. Sarmento Cabral. How genomic and ecological traits affect radiations of plant species on oceanic islands: insights from a genomically-explicit model. *In prep*.
 
 <!--
 ## Grants and funding
@@ -241,4 +240,4 @@ Residence: Germany
 Family: Married, one daughter
 
 
-<br/>Last updated: March 2020<br/><br/>
+<br/>Last updated: March 2020
