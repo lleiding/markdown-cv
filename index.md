@@ -151,6 +151,9 @@ Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"><
 
 ### Assistant teaching
 
+`2017-present`
+Grundlagen der Systemadministration. *Center for Computational and Theoretical Biology, University of Würzburg*, Germany.
+
 ## Supervision
 
 <!--
