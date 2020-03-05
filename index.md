@@ -188,21 +188,15 @@ Grundlagen der Systemadministration. *Center for Computational and Theoretical B
 ## Community outreach
 -->
 
-## IT skills
+## Skills
 
-### Regular usage
+### Research and analysis
 
-- \- Linux
-- \- R, including ggplot2, dplyr
-- \- julia
-- \- LaTeX
-- \- Git
-- \- bash
+Mechanistic modeling, phylogenies, ordinations (e.g., PCA), GLMM, genome assembly, PCR, Western blog, cell culture
 
-### Used in past projects 
-- \- perl
-- \- python
-- \- PASCAL
+### IT
+
+Linux, R (including ggplot2, dplyr), julia, LaTeX, Git, bash, python, PASCAL, perl
 
 ## Languages
 
