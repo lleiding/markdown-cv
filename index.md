@@ -112,11 +112,14 @@ L. Leidinger and J. Sarmento Cabral. Biodiversity dynamics on islands: explicitl
 
 `2020`
 **L. Leidinger**, J. Sarmento Cabral. How genomic and ecological traits may shape plant biodiversity on oceanic islands. *Early Career Biogeographers Conference, Amsterdam, Netherlands, 17-19 April, 2020*, International Biogeography Society, 2020.
+
 **L. Leidinger**, T. J. Matthews, D. Vedder, J. Sarmento Cabral. Island biogeography of the Anthropocene - investigating differentiation patterns of introduced species with a mechanistic model. *Macro2020 - Macroecology of the Anthropocene, Konstanz, Germany, March 2-5, 2020*, Gesellschaft für Ökologie special interest group Macroecology, 2020.
 
 `2019`
 **L. Leidinger**, J. Sarmento Cabral. Genetic traits affect the occurrence and speed of island radiations - insights from an individual-based model. *GfÖ Annual Meeting 2019, Münster, 9-13 September, 2019*, Gesellschat für Ökologie, 2019.
+
 **L. Leidinger**, J. Sarmento Cabral. Temporal environmental variation interacts with genetic and ecological traits to shape community composition. *Macroecology 2019 - Bridging local patterns and global challenges, Würzburg, Germany, 11-14 March, 2019*, Gesellschaft für Ökologie special interest group Macroecology, 2019.
+
 **L. Leidinger**, J. Sarmento Cabral. How environmental spatial gradients and temporal variation interact with genetic and ecological traits to shape community composition. *IBS 2019, Málaga, Spain, 8-12 January, 2019*, International Biogeography Society, 2019.
 
 `2018`
