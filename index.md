@@ -67,22 +67,22 @@ Am Hubland 32<br/>
 
 ### In preparation
 
-D. Vedder, L. Leidinger and J. Sarmento Cabral. Effects of Species Traits and Abiotic Factors on the Four Stages of Plant Invasion. In prep.
+D. Vedder, L. Leidinger and J. Sarmento Cabral. Effects of Species Traits and Abiotic Factors on the Four Stages of Plant Invasion. *In prep*.
 
-L. Leidinger and J. Sarmento Cabral. How genomic and ecological traits affect radiations of plant species on oceanic islands: insights from a genomically-explicit model. In prep.
+L. Leidinger and J. Sarmento Cabral. How genomic and ecological traits affect radiations of plant species on oceanic islands: insights from a genomically-explicit model. *In prep*.
 
 ### Submitted
 
-L. Leidinger and J. Sarmento Cabral. Temporal environmental variation imposes differential selection on both genomic and ecological traits. *Oikos*, submitted.
+L. Leidinger and J. Sarmento Cabral. Temporal environmental variation imposes differential selection on both genomic and ecological traits. *Submitted*.
 
-### Accepted
-
-T. Matthews, L. Leidinger and J. Sarmento Cabral. The effect of species extinctions on island biogeographic patterns. *Ecological research*
 
 ### Published
 
+`2020`
+T. J. Matthews, L. K. T. Leidinger and J. Sarmento Cabral. The effect of species extinctions on island biogeographic patterns. *Ecological Research*. DOI: [10.1111/1440-1703.12093](https://doi.org/10.1111/1440-1703.12093), 2020.
+
 `2017`
-L. Leidinger and J. Sarmento Cabral. Biodiversity dynamics on islands: explicitly accounting for causality in mechanistic models. *Diversity*. doi: [10.3390/d9030030](https://doi.org/10.3390/d9030030), 2017.
+L. Leidinger and J. Sarmento Cabral. Biodiversity dynamics on islands: explicitly accounting for causality in mechanistic models. *Diversity*. DOI: [10.3390/d9030030](https://doi.org/10.3390/d9030030), 2017.
 
 <!--
 ## Grants and funding
@@ -108,7 +108,27 @@ L. Leidinger and J. Sarmento Cabral. Biodiversity dynamics on islands: explicitl
 ### Organization
 -->
 
-### Presentations
+### Talks
+
+`2020`
+**L. Leidinger**, J. Sarmento Cabral. How genomic and ecological traits may shape plant biodiversity on oceanic islands. *Early Career Biogeographers Conference, Amsterdam, Netherlands, 17-19 April, 2020*, International Biogeography Society, 2020.
+**L. Leidinger**, T. J. Matthews, D. Vedder, J. Sarmento Cabral. Island biogeography of the Anthropocene - investigating differentiation patterns of introduced species with a mechanistic model. *Macro2020 - Macroecology of the Anthropocene, Konstanz, Germany, March 2-5, 2020*, Gesellschaft für Ökologie special interest group Macroecology, 2020.
+
+`2019`
+**L. Leidinger**, J. Sarmento Cabral. Genetic traits affect the occurrence and speed of island radiations - insights from an individual-based model. *GfÖ Annual Meeting 2019, Münster, 9-13 September, 2019*, Gesellschat für Ökologie, 2019.
+**L. Leidinger**, J. Sarmento Cabral. Temporal environmental variation interacts with genetic and ecological traits to shape community composition. *Macroecology 2019 - Bridging local patterns and global challenges, Würzburg, Germany, 11-14 March, 2019*, Gesellschaft für Ökologie special interest group Macroecology, 2019.
+**L. Leidinger**, J. Sarmento Cabral. How environmental spatial gradients and temporal variation interact with genetic and ecological traits to shape community composition. *IBS 2019, Málaga, Spain, 8-12 January, 2019*, International Biogeography Society, 2019.
+
+`2018`
+**L. Leidinger**, J. Sarmento Cabral. How Genetic Traits Affect Speciation — An Integrative Modeling Approach. *Macro2018 - Macroecology in the age of big data, Zürich, Switzerland, 10-13 April, 2018*, Gesellschaft für Ökologie special interest group Macroecology, 2018.
+
+### Posters
+
+`2019`
+**L. Leidinger**, J. Sarmento Cabral (presenter). Genetic traits affect the occurrence and speed of island radiations - insights from an individual-based model. *Island Biology, La Réunion, France, 8-13 July, 2019*, Society for Island Biology, 2019.
+
+`2017`
+**L. Leidinger**, J. Sarmento Cabral. Mechanistic simulation models for island biodiversity. *Ecology Across Borders, Gent, Belgium, 11-14 December, 2017*, British Ecological Society, Nederlands-Vlaamse vereniging voor ecologie, Gesellschaft für Ökologie, 2017.
 
 <!--
 *Past 3 years. Asterisks indicate student lead authors.*
@@ -215,4 +235,4 @@ Residence: Germany
 Family: Married, one daughter
 
 
-<br/>Last updated: February 2020<br/><br/>
+<br/>Last updated: March 2020<br/><br/>
