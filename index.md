@@ -55,7 +55,7 @@ Am Hubland 32<br/>
 **Self-employment**, *Data analysis services for Prof. em. Dr. Ernst-Detlef Schulze of the Max Planck Institute for Biogeochemistry*, Jena, Germany.
 
 `2013`
-**Internship**, *Max Planck Institute for Biogeochemistry*, Jena, Germany.
+**Internship**, *Carbon Balance, Ecosystem Research and Management group, Max Planck Institute for Biogeochemistry*, Jena, Germany.
 
 `2013`
 **Internship**, *Aston Centre for Membrane Protein & Lipid Research, Life & Health Sciences, Aston University*, Birmingham, United Kingdom.
@@ -116,6 +116,7 @@ L. Leidinger and J. Sarmento Cabral. How genomic and ecological traits affect ra
 
 `2019`
 **L. Leidinger**, J. Sarmento Cabral. Genetic traits affect the occurrence and speed of island radiations - insights from an individual-based model. *GfÖ Annual Meeting 2019, Münster, 9-13 September, 2019*, Gesellschat für Ökologie, 2019.
+<br/><br/>
 
 **L. Leidinger**, J. Sarmento Cabral. Temporal environmental variation interacts with genetic and ecological traits to shape community composition. *Macroecology 2019 - Bridging local patterns and global challenges, Würzburg, Germany, 11-14 March, 2019*, Gesellschaft für Ökologie special interest group Macroecology, 2019.
 
@@ -179,8 +180,10 @@ Grundlagen der Systemadministration. *Center for Computational and Theoretical B
 
 ## Professional service
 
-`2019-present`
-**Referee activity for**: *Scientific Reports*
+### Journal referee activity
+
+`2019`
+Scientific Reports
 
 <!--
 ## University service
@@ -192,7 +195,7 @@ Grundlagen der Systemadministration. *Center for Computational and Theoretical B
 
 ### Research and analysis
 
-Mechanistic modeling, phylogenies, ordinations (e.g., PCA), GLMM, genome assembly, PCR, Western blog, cell culture
+Mechanistic/agent-based modeling, complex data, phylogenies, clustering, ordinations (e.g., PCA), regressions, GLMM, genome assembly, PCR, Western blot, cell culture
 
 ### IT
 
