@@ -115,7 +115,6 @@ L. Leidinger and J. Sarmento Cabral. How genomic and ecological traits affect ra
 
 `2019`
 **L. Leidinger**, J. Sarmento Cabral. Genetic traits affect the occurrence and speed of island radiations - insights from an individual-based model. *GfÖ Annual Meeting 2019, Münster, 9-13 September, 2019*, Gesellschat für Ökologie, 2019.
-<br/><br/>
 
 **L. Leidinger**, J. Sarmento Cabral. Temporal environmental variation interacts with genetic and ecological traits to shape community composition. *Macroecology 2019 - Bridging local patterns and global challenges, Würzburg, Germany, 11-14 March, 2019*, Gesellschaft für Ökologie special interest group Macroecology, 2019.
 
