@@ -23,7 +23,7 @@ Am Hubland 32<br/>
 ## Education
 
 `2016-present`
-**Ph.D. student, Biology**, *University of Würzburg*, Germany.
+**Ph.D. student, Biology**, *University of Würzburg*, Germany. Projected date of completion: March/April 2020.
 
 `2014-2016`
 **M.Sc., Biology (Ecology & Bioinformatics)**, *University of Würzburg*, Germany.
@@ -43,7 +43,7 @@ Am Hubland 32<br/>
 ## Experience
 
 `2016-present`
-**Research associate**, *Center for Computational and Theoretical Biology, University of Würzburg*, Germany.
+**Research associate**, *Center for Computational and Theoretical Biology, University of Würzburg*, Germany. Contract ends in May 2020.
 
 `2016`
 **Research associate**, *Theoretical and Evolutionary Ecology group, Zoology III, University of Würzburg*, Germany.
